@@ -6,10 +6,39 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 18:34:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 22:58:18 +0800</lastBuildDate>
     
         <atom:link href="https://brvyong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Empty</title>
+      <link>https://brvyong.github.io/post/empty/</link>
+      <pubDate>Sat, 01 Jan 2022 22:58:18 +0800</pubDate>
+      
+      <guid>https://brvyong.github.io/post/empty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readme</title>
+      <link>https://brvyong.github.io/post/readme/</link>
+      <pubDate>Sat, 01 Jan 2022 22:51:54 +0800</pubDate>
+      
+      <guid>https://brvyong.github.io/post/readme/</guid>
+      <description>Brvyong，
+充满勇气，充满斗争的欲望。
+诚既勇兮又以武，终刚强兮不可凌。</description>
+    </item>
+    
+    <item>
+      <title>C T G</title>
+      <link>https://brvyong.github.io/post/c-t-g/</link>
+      <pubDate>Sat, 01 Jan 2022 22:39:02 +0800</pubDate>
+      
+      <guid>https://brvyong.github.io/post/c-t-g/</guid>
+      <description>就瞧瞧，就看看，然后静悄悄，我走。</description>
+    </item>
     
     <item>
       <title>新开始</title>
